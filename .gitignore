@@ -1,0 +1,7 @@
+.DS_Store
+.build/
+.swiftpm/
+.swiftpm-cache/
+.swift-module-cache/
+.clang-module-cache/
+dist/
