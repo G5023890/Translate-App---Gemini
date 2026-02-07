@@ -47,3 +47,16 @@ Without these permissions, selected-text capture will fail in many apps.
 ## Repository
 
 GitHub: [https://github.com/G5023890/Translate-App---Gemini](https://github.com/G5023890/Translate-App---Gemini)
+
+## Security
+
+See:
+
+`/Users/grigorymordokhovich/Documents/Develop/Translate App - Gemini/Secrets.md`
+
+Install local pre-commit secret scanning:
+
+```bash
+cd "/Users/grigorymordokhovich/Documents/Develop/Translate App - Gemini"
+./scripts/install_git_hooks.sh
+```

@@ -11,3 +11,10 @@ DerivedData/
 *.xcuserdatad/
 *.moved-aside
 TranslateGeminiiOS/.DerivedData/
+.env
+.env.*
+!.env.example
+secrets/
+Secrets.local.md
+Config/Secrets.local.xcconfig
+TranslateGeminiiOS/Config/Secrets.local.xcconfig
