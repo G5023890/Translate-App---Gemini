@@ -5,3 +5,9 @@
 .swift-module-cache/
 .clang-module-cache/
 dist/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xcuserdatad/
+*.moved-aside
+TranslateGeminiiOS/.DerivedData/
